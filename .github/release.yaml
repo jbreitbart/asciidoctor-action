@@ -1,0 +1,22 @@
+name: Asciidoctor Demo
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  example:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+
+      - uses: reitzig/actions-asciidoctor@v2.0.0
+        with:
+          version: 2.0.10
+
+      - run: asciidoctor --version
