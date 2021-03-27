@@ -1,1 +1,12 @@
-asdf1
+== Was ist Rust?
+
+Rust wurde erstmalig im Jahr 2010 vorgestellt und ist damit im Vergleich zu C, {cpp} oder auch Java eine relativ junge Programmiersprache.
+Sie entstand aus einem privaten Projekt des Mozilla-Mitarbeiters Graydon Hoare und im Jahr 2015 wurde die erste stabile Version veröffentlich.
+
+Die Weiterentwicklung wurde ursprünglich primär durch https://www.mozilla.org/en-US/research/projects/[Mozilla Research] voran getrieben, allerdings hat Mozilla im Jahr 2020 ca. ein Viertel ihrer Mitarbeiter entlassen, inklusive vieler Rust Entwickler.
+Aktuell übernimmt die https://foundation.rust-lang.org[Rust Foundation] als unabhängig Stiftung die organisatorische Leitung der Weiterentwicklung von Rust.
+Die technische Weiterentwicklung wird hauptsächlich durch die Rust Community getragen.
+Es gibt eine Reihe fester Teams als auch Anwendungsgetriebene Working Groups, eine genaue Übersicht findet man auf der https://www.rust-lang.org/governance[Rust Homepage].
+Im letzten Jahr haben auch viele größere erfolgreiche Unternehmen wie interesse an Rust bekundet und Teile der der von Mozilla entlassenen Entwickler eingestellt.
+Gründungsmitglieder der Rust Foundation sind die Firmen Amazon Webservices, Huawei, Google, Microsoft und natürlich Mozilla.
+

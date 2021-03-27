@@ -1,1 +1,14 @@
-asdf 2
+== Einleitung
+
+Wie bereits im ersten Artikel dieser Serie beschrieben, ist Rust eine relativ neue Programmiersprache die sich selbst als Ziel Performance, Verlässlichkeit und Produktivität gesetzt hat.
+Es gibt natürlich viele verschiedene Anwendungsgebiete die an diesen Zielen interesse haben.
+
+Am bekanntesten ist vermutlich das Rust im Browser https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12[Firefox] von Mozilla eingesetzt wird, insbesondere ist die Browser Engine https://servo.org/[Servo] in Rust geschrieben.
+Rust ermöglicht es Code zu schreiben der direkt mit C/{cpp} integriert werden kann und so wurden für Firefox schrittweise einzelne Komponenten ersetzt.
+Es werden aber auch viele system-nahe Komponenten moderner Software in Rust geschrieben.
+So benutzt z.B. Dropbox Rust für Teile ihres Storage Backends oder Amazons leichgewichtige Virtuelle Maschine https://firecracker-microvm.github.io[Firecracker] und Intels https://www.phoronix.com/scan.php?page=news_item&px=Intel-Cloud-Hypervisor-0.2[Cloud Hypervisor] sind komplett in Rust geschrieben.
+Cloudservices werden teilweise auch in Rust entwickelt, da sich die hohe Effizienz von Rust Anwendungen, abhängig von der Anzahl der Nutzer, direkt finanziell bezahlt machen kann.
+So setzt z.B. Cloudflare auf Rust für ihre https://blog.cloudflare.com/html-parsing-1/[HTML-Rewriting Engine] oder auch https://www.rust-lang.org/static/pdfs/Rust-npm-Whitepaper.pdf[NPM] implementiert einige ihrer Services in Rust.
+Für die Entwicklung von eingebetteten Systemen ist es besonders interessant, das die Rust Standardbibliothek bereits explizit Teile ausweißt welche ohne Betriebsystem funktionieren und auch `Cargo` in der Lage ist entsprechende Projekte zu verwalten.
+
+In den folgenden Abschnitten wird die Einführung ist Rust aus dem vorherigem Artikel fortzgesetzt und am Ende ein kleiner Webservice implementiert.
