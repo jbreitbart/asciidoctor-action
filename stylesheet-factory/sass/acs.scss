@@ -1,0 +1,11 @@
+@import "settings/acs";
+@import "components/asciidoc";
+@import "components/awesome-icons";
+
+#header {
+ background-image: url('acsrwth-logo.png');
+ background-repeat: no-repeat;
+ background-position: right top;
+ background-attachment: scroll;
+ padding-right:375px;
+}
