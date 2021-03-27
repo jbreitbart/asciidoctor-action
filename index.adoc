@@ -1,0 +1,19 @@
+= Rust / Tutorial
+:hide-uri-scheme:
+:source-highlighter: pygments
+:author: Jens Breitbart, Stefan Lankes
+:toc: left
+:toc-title: Chapters
+:toclevels: 4
+:stem:
+:figure-caption!:
+:bibtex-file: references.bib
+:bibtex-order: alphabetical
+:bibtex-style: ieee
+:doctype: book
+
+= Artikel 1
+include::a1.adoc[]
+
+= Artikel 2
+include::a2.adoc[]
