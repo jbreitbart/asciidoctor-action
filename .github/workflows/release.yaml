@@ -12,7 +12,9 @@ jobs:
       - uses: actions/checkout@v2
 
       - uses: ruby/setup-ruby@v1
-
+        with:
+          ruby-version: 2.7
+      
       - uses: reitzig/actions-asciidoctor@v2.0.0
 
       - run: gem install asciidoctor-bibtex
