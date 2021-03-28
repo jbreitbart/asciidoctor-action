@@ -1,0 +1,157 @@
+<mxfile host="app.diagrams.net" modified="2021-03-23T20:37:34.424Z" agent="5.0 (Macintosh)" etag="SRp0MnInxVmx9CipPjJl" version="14.4.9" type="github">
+  <diagram id="tKjfAQF7yDLHDg9Tijct" name="Page-1">
+    <mxGraphModel dx="1351" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-7" value="" style="rounded=0;whiteSpace=wrap;glass=0;sketch=1;fontSize=30;fillColor=#1ba1e2;fontColor=#ffffff;fillStyle=hachure;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="48.75" width="890" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;sketch=1;" parent="1" source="wXtisIYOMkVmAY2hSXc5-1" target="wXtisIYOMkVmAY2hSXc5-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-26" value="besitz" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="wXtisIYOMkVmAY2hSXc5-25" vertex="1" connectable="0">
+          <mxGeometry x="0.7778" y="3" relative="1" as="geometry">
+            <mxPoint y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-1" value="" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="330" y="48.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-2" value="6" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="410" y="48.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-3" value="5" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="490" y="48.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-9" value="Stack" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="130" y="78.75" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-12" value="" style="strokeWidth=2;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;shadow=0;glass=1;sketch=1;gradientColor=none;fontSize=30;rotation=90;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="401.25" y="-120" width="95" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-14" value="heise : string" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="365" y="-80" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-17" value="" style="rounded=0;whiteSpace=wrap;glass=0;sketch=1;fontSize=30;fillColor=#1ba1e2;fontColor=#ffffff;fillStyle=hachure;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="346.25" width="660" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-18" value="h" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="330" y="346.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-19" value="e" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="410" y="346.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-20" value="i" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="490" y="346.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-21" value="Heap" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="130" y="376.25" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-23" value="s" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="570" y="346.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-24" value="e" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="650" y="346.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-27" value="" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="730" y="346.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-28" value="Länge" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;rotation=45;" parent="1" vertex="1">
+          <mxGeometry x="540" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wXtisIYOMkVmAY2hSXc5-29" value="Kapazität" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;rotation=45;" parent="1" vertex="1">
+          <mxGeometry x="480" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-6" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" parent="1" source="r64aLYgkCp6eqWIr93eM-4" target="wXtisIYOMkVmAY2hSXc5-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="290" />
+              <mxPoint x="450" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-8" value="ausgeliehen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;fontFamily=Cabin Sketch;" parent="r64aLYgkCp6eqWIr93eM-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.8459" y="-2" relative="1" as="geometry">
+            <mxPoint x="-48" y="96.25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-4" value="" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="650" y="48.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-5" value="3" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="730" y="48.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-9" value="" style="strokeWidth=2;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;shadow=0;glass=1;sketch=1;gradientColor=none;fontSize=30;rotation=90;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="682.5" y="-80" width="95" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-11" value="eis : &amp;amp;str" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="672.5" y="-80" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-12" value="" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="890" y="48.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-13" value="3" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="970" y="48.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-14" value="" style="strokeWidth=2;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;shadow=0;glass=1;sketch=1;gradientColor=none;fontSize=30;rotation=90;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="922.5" y="-80" width="95" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-15" value="snowman : &amp;amp;str" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="820" y="-80" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-17" value="" style="rounded=0;whiteSpace=wrap;glass=0;sketch=1;fontSize=30;fillColor=#1ba1e2;fontColor=#ffffff;fillStyle=hachure;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;dashed=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1047" y="490" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-18" value="&lt;div&gt;Code Segment&lt;/div&gt;&lt;div&gt;(schreibgeschützt)&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="817.5" y="520" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-19" value="" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="1137" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-20" value="" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="1295.75" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-21" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 46px&quot;&gt;☃&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;aspect=fixed;rounded=0;glass=1;sketch=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;shadow=0;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="1215.75" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-22" value="Länge" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;rotation=45;" parent="1" vertex="1">
+          <mxGeometry x="777.5" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-23" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="r64aLYgkCp6eqWIr93eM-12" target="r64aLYgkCp6eqWIr93eM-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="210" as="sourcePoint" />
+            <mxPoint x="1120" y="317.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="129" />
+              <mxPoint x="920" y="300" />
+              <mxPoint x="1070" y="300" />
+              <mxPoint x="1070" y="440" />
+              <mxPoint x="1177" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-24" value="ausgeliehen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;fontFamily=Cabin Sketch;labelBackgroundColor=#ffffff;" parent="r64aLYgkCp6eqWIr93eM-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.8459" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="92.57" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-28" value="" style="strokeWidth=2;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;shadow=0;glass=1;sketch=1;gradientColor=none;fontSize=30;rotation=-90;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="1208.25" y="500" width="95" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-29" value="str" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="1175.13" y="680" width="161.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-30" value="" style="strokeWidth=2;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;shadow=0;glass=1;sketch=1;gradientColor=none;fontSize=30;rotation=-90;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="523" y="236" width="95" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="r64aLYgkCp6eqWIr93eM-33" value="str" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;" parent="1" vertex="1">
+          <mxGeometry x="490.0000000000001" y="530" width="161.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G7qL7K9ZVOoPpeXev-Wx-1" value="Länge" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=30;fontFamily=Cabin Sketch;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;rotation=45;" parent="1" vertex="1">
+          <mxGeometry x="1007" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
