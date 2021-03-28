@@ -15,8 +15,6 @@ jobs:
         with:
           ruby-version: 2.7
       
-      - uses: reitzig/actions-asciidoctor@v2.0.0
-
-      - run: gem install asciidoctor-bibtex
+      - run: gem install asciidoctor asciidoctor-bibtex
 
       - run: make 
