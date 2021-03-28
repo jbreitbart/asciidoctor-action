@@ -12,6 +12,8 @@ jobs:
         with:
           ruby-version: 2.7
       - run: gem install asciidoctor asciidoctor-bibtex
+      - run: wget https://github.com/jgraph/drawio-desktop/releases/download/v14.5.1/drawio-amd64-14.5.1.deb
+      - run: sudo dpkg -i drawio-amd64-14.5.1.deb
       - name: Convert draw.io file to png image
         uses: Burnett01/actions-drawio@1.0
         with:
