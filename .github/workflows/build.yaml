@@ -17,5 +17,4 @@ jobs:
         with:
           src: string.drawio
           dest: string.png
-      - run: make 
-      - run: make pdf
+      - run: make

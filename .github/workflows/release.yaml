@@ -17,13 +17,14 @@ jobs:
         with:
           ruby-version: 2.7      
       - run: gem install asciidoctor asciidoctor-bibtex
-      - name: Convert draw.io file to png image
-        uses: Burnett01/actions-drawio@1.0
-        with:
-          src: string.drawio
-          dest: string.png
-      - run: make 
-      - run: make pdf
+      - run: wget https://github.com/jgraph/drawio-desktop/releases/download/v14.5.1/draw.io-amd64-14.5.1.deb
+      - run: sudo dpkg -i draw.io-amd64-14.5.1.deb
+#      - name: Convert draw.io file to png image
+#        uses: Burnett01/actions-drawio@1.0
+#        with:
+#          src: string.drawio
+#          dest: string.png
+      - run: make
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
@@ -31,6 +32,5 @@ jobs:
           files: |
             index.html
             string.png
-            index.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
