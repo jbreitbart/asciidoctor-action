@@ -17,11 +17,10 @@ jobs:
         with:
           ruby-version: 2.7      
       - run: gem install asciidoctor asciidoctor-bibtex
-      - name: Convert draw.io file to png image
-        uses: Burnett01/actions-drawio@1.0
+      - name: Export drawio files to asciidoctor and png files
+        uses: docker://rlespinasse/drawio-export:v3.x
         with:
-          src: string.drawio
-          dest: string.png
+          args: --fileext png --folder . 
       - run: make 
       - name: Release
         uses: softprops/action-gh-release@v1
