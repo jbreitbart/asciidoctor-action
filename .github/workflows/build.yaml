@@ -12,7 +12,8 @@ jobs:
         with:
           ruby-version: 2.7
       - run: gem install asciidoctor asciidoctor-bibtex
-      - run: wget https://github.com/jgraph/drawio-desktop/releases/download/v14.5.1/drawio-amd64-14.5.1.deb
-      - run: sudo apt install ./drawio-amd64-14.5.1.deb
-      - run: /opt/drawio/drawio -x --f png --o string.png string.drawio
+#      - run: wget https://github.com/jgraph/drawio-desktop/releases/download/v14.5.1/drawio-amd64-14.5.1.deb
+#      - run: sudo apt install ./drawio-amd64-14.5.1.deb
+      - run: sudo snap install drawio
+      - run: drawio -x --f png --o string.png string.drawio
       - run: make
